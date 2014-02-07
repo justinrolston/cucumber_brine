@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "cucumber_brine"
   spec.version       = CucumberBrine::VERSION
   spec.authors       = ["Justin Rolston"]
-  spec.email         = ["jrolston@covermymeds.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.email         = ["justinrolston@gmail.com"]
+  spec.description   = %q{Persist cucumber test results to a database. }
+  spec.summary       = %q{Persist cucumber test results to a database. }
   spec.homepage      = ""
   spec.license       = "MIT"
 
